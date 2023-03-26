@@ -1,2 +1,3 @@
 # lottie-
-加载lottie动画-mg动画
+3秒加载圆圈lottie动画
+需要制作其他的可联系定制
